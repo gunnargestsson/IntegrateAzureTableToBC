@@ -2,7 +2,7 @@
   "id": "d520d4ed-a357-4f32-a058-73b55d31ecf5",
   "name": "Integrate Azure Tables",
   "publisher": "Kappi ehf.",
-  "version": "21.1.0.0",
+  "version": "21.2.0.0",
   "brief": "Import AppSource Lead information from Azure Storage Table",
   "description": "AppSource Lead information is written to an Azure Storage Table.  This app reads the information from the Table to import into the Business Central marketing.",
   "logo": "logo/Logo250x250.png",

@@ -1,6 +1,6 @@
 {
-  "country": "us",
-  "appFolders": [],
+  "country": "is",
+  "appFolders": ["Integrate Azure Tables"],
   "testFolders": [],
   "bcptTestFolders": []
 }

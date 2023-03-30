@@ -8,365 +8,364 @@
       <group id="body">
         <trans-unit id="Table 3579630611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Azure Table Entity</source>
-          <target>Azure töflufærsla</target>
+          <target state="translated">Azure töflufærsla</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 3365865613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Action Code</source>
-          <target>Aðgerðarkóti</target>
+          <target state="translated">Aðgerðarkóti</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Action Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 3133801257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Company</source>
-          <target>Fyrirtæki</target>
+          <target state="translated">Fyrirtæki</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Company - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Country</source>
-          <target>Land</target>
+          <target state="translated">Land</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Country - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 3453613999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Created Time</source>
-          <target>Stofnað þann</target>
+          <target state="translated">Stofnað þann</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Created Time - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
-          <target>Lýsing</target>
+          <target state="translated">Lýsing</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>E-Mail</source>
-          <target>E-Mail </target>
+          <target state="translated">E-Mail </target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 3444679095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>First Name</source>
-          <target>Fornafn</target>
+          <target state="translated">Fornafn</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field First Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 4068742839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Last Name</source>
-          <target>Eftirnafn</target>
+          <target state="translated">Eftirnafn</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Last Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 2933312323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Lead Source</source>
-          <target>Upphaf tækifæris</target>
+          <target state="translated">Upphaf tækifæris</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Lead Source - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 1504455623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Offer Display Name</source>
-          <target>Nafn tilboðs</target>
+          <target state="translated">Nafn tilboðs</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Offer Display Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 1491500151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Partition Key</source>
-          <target>Flokkunarlykill</target>
+          <target state="translated">Flokkunarlykill</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Partition Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 646935216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Phone</source>
-          <target>Sími
+          <target state="translated">Sími
 </target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Phone - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 459399738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Product Id</source>
-          <target>Vörukenni</target>
+          <target state="translated">Vörukenni</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Product Id - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 1108719117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Publisher Display Name</source>
-          <target>Nafn bjóðanda</target>
+          <target state="translated">Nafn bjóðanda</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Publisher Display Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 1795779655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Row Key</source>
-          <target>Röðunarlykill
+          <target state="translated">Röðunarlykill
 </target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Row Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 2420773930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Time Stamp</source>
-          <target>Tímastimpill
+          <target state="translated">Tímastimpill
 </target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Time Stamp - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3579630611 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Title</source>
-          <target>Titill</target>
+          <target state="translated">Titill</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Entity - Field Title - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Azure Table Setup</source>
-          <target>Azure töflugrunnur</target>
+          <target state="translated">Azure töflugrunnur</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - NamedType 2565632078" size-unit="char" translate="yes" xml:space="preserve">
           <source>Job queue entries for integration with Azure Storage Table have been created.\\Do you want to open the Job Queue Entries window?</source>
-          <target>Verkraðarfærslu fyrir samstilling við Azure gagnageymslutöflu hefur verið mynduð.\\Viltu opna síðuna yfir verkraðarfærslur?</target>
+          <target state="translated">Verkraðarfærslu fyrir samstilling við Azure gagnageymslutöflu hefur verið mynduð.\\Viltu opna síðuna yfir verkraðarfærslur?</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - NamedType JobQEntriesCreatedQst</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Enabled</source>
-          <target>Virkt</target>
+          <target state="translated">Virkt</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Field Enabled - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Field 454980611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Log Activity</source>
-          <target>Ská aðgerðarannál</target>
+          <target state="translated">Ská aðgerðarannál</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Field Log Activity - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Field 315329732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Manual Synchronization</source>
-          <target>Handvirk samstilling</target>
+          <target state="translated">Handvirk samstilling</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Field Manual Synchronization - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Primary Key</source>
-          <target>Aðallykill</target>
+          <target state="translated">Aðallykill</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Field Primary Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Field 3292845714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Storage Account Access Key ID</source>
-          <target>Kenni aðgangslykils gagnageymslu</target>
+          <target state="translated">Kenni aðgangslykils gagnageymslu</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Field Storage Account Access Key ID - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Field 2184249729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Storage Account Name</source>
-          <target>Nafn gagnageymslu</target>
+          <target state="translated">Nafn gagnageymslu</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Field Storage Account Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2138112119 - Field 4013306819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Storage Account Table Name</source>
-          <target>Töflunafn gagnageymslu</target>
+          <target state="translated">Töflunafn gagnageymslu</target>
           <note from="Xliff Generator" annotates="general" priority="3">Table O4N Azure Table Setup - Field Storage Account Table Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Codeunit 116847214 - NamedType 2337942340" size-unit="char" translate="yes" xml:space="preserve">
           <source>Failed to verify table access: %1</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Ekki tókst að staðfesta töfluaðgang: %1</target>
           <note from="Developer" annotates="general" priority="2">%1 = Reason Phrase</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit O4N Azure Table API - NamedType FailedToVerifyTableAccessErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 116847214 - NamedType 1044091682" size-unit="char" translate="yes" xml:space="preserve">
           <source>Table %1 can only be used as a temporary storage!</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Aðeins er hægt að nota töfluna %1 sem tímabundna geymslu!</target>
           <note from="Developer" annotates="general" priority="2">%1 = Table Name</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit O4N Azure Table API - NamedType RecordNotTemporaryErr</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Azure Table Entities</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Azure-töflueiningar</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 3365865613 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Action Code field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Aðgerðarkóði</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Action Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 3133801257 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Company field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Fyrirtæki</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Company - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Country field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Land</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Country - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 3453613999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Created Time field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Stofnaður tími</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Created Time - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 3300476563 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Customer First Name field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Fornafn viðskiptamanns</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Customer First Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 1317136051 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Customer Last Name field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Eftirnafn viðskiptamanns</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Customer Last Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Description field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildið í reitnum Lýsing</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the E-Mail field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Tölvupóstur</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control E-Mail - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 2933312323 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Lead Source field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Uppruni afhendingar</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Lead Source - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 1504455623 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Offer Display Name field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Birtingarheiti tilboðs</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Offer Display Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 1491500151 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Partition Key field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Deildarlykill</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Partition Key - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 646935216 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Phone field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Símanúmer</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Phone - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 459399738 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Product Id field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Vörukenni</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Product Id - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 1108719117 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Publisher Display Name field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Birtingarheiti útgefanda</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Publisher Display Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 1795779655 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Row Key field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Línulykill</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Row Key - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 2420773930 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Time Stamp field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Tímamerki</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Time Stamp - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3612950217 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Title field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Heiti</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Entities - Control Title - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 391507156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Azure Table List</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Azure-töflulisti</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table List - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 391507156 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Table Name in Azure Storage Account.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir töfluheiti í Azure Storage Reikningi.</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table List - Control Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
           <source>New,Process,Report,Encryption,Navigate</source>
-          <target>Nýtt,Vinnsla,Skýrsla,Dulritun,Fletta</target>
+          <target state="translated">Nýtt,Vinnsla,Skýrsla,Dulritun,Fletta</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Property PromotedActionCategories</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Azure Table Setup</source>
-          <target>Azure töflugrunnur</target>
+          <target state="translated">Azure töflugrunnur</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - NamedType 298733869" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do you want to disable the Azure Storage Table integation?</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Á að slökkva á heiltölum Azure Storage Table?</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - NamedType DisableEnableQst</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - NamedType 1791671425" size-unit="char" translate="yes" xml:space="preserve">
           <source>You must disable the service before you can make changes.</source>
-          <target>Nauðsynlegt er að slökkva á þjónustunni áður en breytingar eru gerðar.</target>
+          <target state="translated">Nauðsynlegt er að slökkva á þjónustunni áður en breytingar eru gerðar.</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - NamedType EnabledWarningTok</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - NamedType 3035575630" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 is not enabled. Are you sure you want to exit?</source>
-          <target>%1 er ekki virkt. Á örugglega að loka?</target>
+          <target state="translated">%1 er ekki virkt. Á örugglega að loka?</target>
           <note from="Developer" annotates="general" priority="2">%1 = pagecaption (Azure Table Setup)</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - NamedType EnableServiceQst</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>General</source>
-          <target>Almennt</target>
+          <target state="translated">Almennt</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control General - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Enabled field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildið í reitnum "Virkt"</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control Enabled - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 454980611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Log Activity field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Skrá aðgerð</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control Log Activity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 315329732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Manual Synchronization field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Handvirk samstilling</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control Manual Synchronization - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 2184249729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Storage Account Name field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildið í reitnum "Heiti geymslureiknings"</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control Storage Account Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 4013306819 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Storage Account Table Name field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildi reitsins Heiti geymslureiknings</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control Storage Account Table Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 2810624259 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Storage Account Access Key field</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Tilgreinir gildið í reitnum Aðgangslykill geymslureiknings</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control StorageAccountAccessKeyField - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Control 2810624259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Storage Account Access Key</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Geymslureikningsaðgangslykill</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Control StorageAccountAccessKeyField - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 3979788774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Save the table entities Xml to a file.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Vista xml töflueininga í skrá.</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action SaveTableEntities - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 3979788774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Save Table Entities Xml</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Vista xml töflueininga</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action SaveTableEntities - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 1061009130 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>View the table entities.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Skoða töflueiningar.</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action ViewTableEntities - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 1061009130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>View Table Entities</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Skoða töflueiningar</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action ViewTableEntities - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 2678035379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>See the status and any errors integration with Clockify.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Sjá stöðu og allar villur með samþættingu við "Klukka".</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action ActivityLog - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 2678035379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Activity Log</source>
-          <target>Aðgerðakladdi</target>
+          <target state="translated">Aðgerðakladdi</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action ActivityLog - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 2653096382 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>View or edit the jobs that automatically integrate your time sheet with Clockify.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Skoða eða breyta verkum sem samþætta vinnuskýrslu sjálfkrafa með Klukka.</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action JobQueueEntry - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2138112119 - Action 2653096382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Job Queue Entry</source>
-          <target>Verkraðarfærsla</target>
+          <target state="translated">Verkraðarfærsla</target>
           <note from="Xliff Generator" annotates="general" priority="3">Page O4N Azure Table Setup - Action JobQueueEntry - Property Caption</note>
         </trans-unit>
         <trans-unit id="PermissionSet 1621356417 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
           <source>Integrate Azure Tables</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target state="translated">Samþætta Azure-töflur</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet IntegrateAzureTables - Property Caption</note>
         </trans-unit>
       </group>

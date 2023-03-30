@@ -1,9 +1,6 @@
 {
   "folders": [
     {
-      "path": ".AL-Go"
-    },
-    {
       "path": "Integrate Azure Tables"
     }
   ],
@@ -90,6 +87,14 @@
     "alOutline.stripNonAlphanumericCharactersFromObjectNames": true,
     "cSpell.words": [
         "Kappi"
+    ],
+    "NAB.SearchReplaceBeforeSaveXliff": [
+
+    ],
+    "NAB.DTS ProjectId": "62703",
+    "NAB.UseDTS": true,
+    "NAB.TranslationSuggestionPaths": [
+        
     ]
   }
 }
